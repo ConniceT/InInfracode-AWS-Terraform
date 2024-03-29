@@ -8,20 +8,20 @@
 
 This project showcases the automation of secure, scalable cloud infrastructure on AWS using Terraform:
 
-⌨️ AWS Provider
-⌨️ A Subnet
-⌨️ An IGW 
-⌨️ A Route Table and  Route Table Association
-⌨️ A Security Group
-⌨️ An AMI Datasource
-⌨️ A Key Pair
-⌨️ An EC2 Instance
-⌨️ Userdata and the File Function
-⌨️ SSH Config Scripts
-⌨️ The Provisioner and Templatefile
-⌨️ Variables
-⌨️ Conditional Expressions
-⌨️ Outputs
+- ⌨️ **AWS Provider** - [Documentation](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
+- ⌨️ **Aws Subnet** - [Documentation](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/subnet)
+- ⌨️ **An IGW (Internet Gateway)** - [Documentation](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/internet_gateway)
+- ⌨️ **A Route Table and Route Table Association** - [Documentation](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/route_table_association)
+- ⌨️ **A Security Group** - [Documentation](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/security_group)
+- ⌨️ **An AMI Datasource** - [Documentation](https://registry.terraform.io/providers/hashicorp/aws/3.74.2/docs/data-sources/ami)
+- ⌨️ **An EC2 Instance** - [Documentation](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/instance)
+- ⌨️ **Userdata and the `file` Function** - [Documentation](https://registry.terraform.io/providers/serverscom/serverscom/latest/docs/guides/user-data)
+- ⌨️ **SSH Config Scripts** - [Documentation](https://registry.terraform.io/providers/loafoe/ssh/latest/docs/resources/resources)
+- ⌨️ **The `provisioner` and `templatefile`** - [Documentation](https://registry.terraform.io/providers/hashicorp/template/latest/docs/data-sources/file)
+- ⌨️ **Variables** - [Documentation](https://developer.hashicorp.com/terraform/language/values/variables)
+- ⌨️ **Conditional Expressions** - [Documentation](https://developer.hashicorp.com/terraform/language/expressions/conditionals)
+- ⌨️ **Outputs** - [Documentation](https://developer.hashicorp.com/terraform/language/values/outputs)
+ 
 
 ## 🎯 Objectives
 
