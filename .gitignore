@@ -1,7 +1,7 @@
 terraform.tfstate
 terraform.tfvars
+.terraform/
 terraform.tfstate.backup
-*.tfstate
 *.tfstate
 *.tfstate.*
 
@@ -11,8 +11,5 @@ crash.log
 
 *.tfvars
 *.tfvars.json
-
-override.tf
-override.tf.json
 *_override.tf
 *_override.tf.json
