@@ -1,7 +1,7 @@
 <h1 align="center">AWS Infrastructure Automation with Terraform 🚀</h1>
 
 <p align="center">
-  <img src="images/terraform.png" alt="Project Logo" width="200"/>
+  <img src="images/terraform.png" alt="Project Logo" width="1000"/>
 </p>
 
 ## 📖 Project Overview
@@ -47,7 +47,7 @@ _Interconnected world of AWS resources created and managed by Terraform._
 ### Prerequisites
 
 Ensure you're equipped with:
-- Terraform (`≥ vX.XX`)
+- Terraform (`≥ v1.7.0`)
 - AWS CLI, all set up and ready to go
 
 ### 🌟 Spinning Up the Universe
