@@ -1,7 +1,7 @@
 <h1 align="center">AWS Infrastructure Automation with Terraform 🚀</h1>
 
 <p align="center">
-  <img src="terraform/images/terraform.webp" alt="Project Logo" width="200"/>
+  <img src="images/terraform.png" alt="Project Logo" width="200"/>
 </p>
 
 ## 📖 Project Overview
@@ -37,7 +37,7 @@ This project showcases the automation of secure, scalable cloud infrastructure o
 ## 📐 Architecture Diagram
 
 <p align="center">
-  <img src="terraform/images/terraform2.webp" alt="Architecture Diagram" width="600"/>
+  <img src="images/terraform2.png" alt="Architecture Diagram" width="600"/>
 </p>
 
 _Interconnected world of AWS resources created and managed by Terraform._
