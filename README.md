@@ -57,7 +57,7 @@ Ensure you're equipped with:
 git clone https://github.com/ConniceT/InInfracode-AWS-Terraform.git
 
 # Initialize Terraform in the project directory
-cd your-repo-name && terraform init
+terraform init
 
 # Plan your deployment strategy
 terraform plan
