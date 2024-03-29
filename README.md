@@ -26,13 +26,13 @@ This project showcases the automation of secure, scalable cloud infrastructure o
 ## 🎯 Objectives
 
 - **Automate the Mundane**: Deploy a robust AWS environment with minimal manual intervention.
-- **Security at its Core**: A custom VPC and strict Security Groups ensure that our resources remain secure.
+- **Security**: A custom VPC and strict Security Groups ensure that resources remain secure.
 - **Scalability in Mind**: Designed for easy scaling, making your infrastructure grow as your needs do.
 
 ## 🛠 Technologies Used
 
 - **Terraform**: The spine of our infrastructure automation.
-- **AWS**: Our chosen cloud playground, featuring services like EC2, VPC, and more.
+- **AWS**: featuring services like EC2, VPC, and subnets etc.
 
 <!-- ## 📐 Architecture Diagram
 
